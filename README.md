@@ -14,7 +14,10 @@
 * [Teorías](https://www.youtube.com/playlist?list=PL3a_0yafSm3jqtnNdrsTGUcD7zRm21AqP) :film_strip:
 * [Prácticas]() :film_strip:
 
-
+### :round_pushpin: Material Adicional:
+  * [Descarga Virtual Box](https://www.virtualbox.org/) :arrow_down:
+  * [Imagen ISO]() :cd:
+ 
  ### 💻 Practicas:
 
 ### Primera parte Sistemas Operativos Aplicados SOA (Prácticas 1, 2 y 3)
