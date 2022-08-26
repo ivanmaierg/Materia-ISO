@@ -9,6 +9,12 @@
 ) :open_book:
 * [Tema 6 - Buffer Cache](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Tema%206%20-%20Buffer%20Cache.pdf) :open_book:
 
+### :books: Explicacion de Practicas:
+* [Explicacion Practica 1]() :open_book:
+* [Explicacion Practica 2]() :open_book:
+* [Explicacion Practica 3]() :open_book:
+
+
 
 ### :clapper: Videos:
 * [Teorías](https://www.youtube.com/playlist?list=PL3a_0yafSm3jqtnNdrsTGUcD7zRm21AqP) :film_strip:
