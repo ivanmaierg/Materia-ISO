@@ -31,7 +31,14 @@
 
 ### :round_pushpin: Material Adicional:
   * [Descarga Virtual Box](https://www.virtualbox.org/) :arrow_down:
-  * [Imagenes ISO]() :cd:
+  * [Imagenes ISO](https://github.com/Caarito/Materia-ISO/tree/main/Practicas/Imagenes%20ISO) :cd:
+  * [Libro Sistemas Operativos - William Stallings
+](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Libros/Sistemas%20Operativos%20-%20William%20Stallings.pdf
+):closed_book:
+ * [Libro Sistemas Operativos Modernos - Andrew S.Tanenbaum
+](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Libros/Sistemas%20Operativos%20Modernos%20-%20Andrew%20S.Tanenbaum.pdf
+):closed_book:
+
  
  ### 💻 Practicas:
 
