@@ -2,11 +2,12 @@
 
 ### :books: Teorias:
 * [Tema 1 - Introducción](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Tema%201%20-%20Introducci%C3%B3n%20.pdf) :open_book:
-* [Tema 2 - Procesos]() :open_book:
-* [Tema 3 - Memoria]() :open_book:
-* [Tema 4 - IO]() :open_book:
-* [Tema 5 - File System]() :open_book:
-* [Tema 6 - Buffer Cache]() :open_book:
+* [Tema 2 - Procesos](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Tema%202%20-%20Procesos%20.pdf) :open_book:
+* [Tema 3 - Memoria](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Tema%203%20-%20Memoria%20.pdf) :open_book:
+* [Tema 4 - IO](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Tema%204%20-%20IO.pdf) :open_book:
+* [Tema 5 - File System](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Tema%205%20-%20FileSystem.pdf
+) :open_book:
+* [Tema 6 - Buffer Cache](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Tema%206%20-%20Buffer%20Cache.pdf) :open_book:
 
 
 ### :clapper: Videos:
