@@ -1,7 +1,7 @@
 ## Introduccion a Sistemas Operativos
 
 ### :books: Teorias:
-* [Tema 1 - Introducción]() :open_book:
+* [Tema 1 - Introducción](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Tema%201%20-%20Introducci%C3%B3n%20.pdf) :open_book:
 * [Tema 2 - Procesos]() :open_book:
 * [Tema 3 - Memoria]() :open_book:
 * [Tema 4 - IO]() :open_book:
