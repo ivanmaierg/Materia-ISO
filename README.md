@@ -16,7 +16,7 @@
 
 ### :round_pushpin: Material Adicional:
   * [Descarga Virtual Box](https://www.virtualbox.org/) :arrow_down:
-  * [Imagen ISO]() :cd:
+  * [Imagenes ISO]() :cd:
  
  ### 💻 Practicas:
 
