@@ -21,7 +21,7 @@
 * [Explicación Practica 5](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Explicaci%C3%B3n%20de%20Practicas/Explicacio%CC%81n%20pra%CC%81ctica%205.pdf
 ) :open_book:
 * [Explicación Practica 6](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Explicaci%C3%B3n%20de%20Practicas/Explicacio%CC%81n%20pra%CC%81ctica%206.pdf) :open_book:
-* [Repaso Prácticas 4,5y 6]() :open_book:
+* [Repaso Prácticas 4,5y 6](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Explicaci%C3%B3n%20de%20Practicas/Repaso%20P4%2C%20P5%20y%20P6.pdf) :open_book:
 
 
 
