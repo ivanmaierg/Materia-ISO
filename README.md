@@ -22,6 +22,6 @@
 
 ### Primera parte Sistemas Operativos Aplicados SOA (Prácticas 1, 2 y 3)
 
-* [Practica 1]() :page_facing_up:
+* [Practica 1](https://github.com/Caarito/Materia-ISO/blob/main/Practicas/Practica%201/Practica1.pdf) :page_facing_up:
 
 ### Segunda parte Práctica Normal PN (Prácticas 4,5 Y 6)
