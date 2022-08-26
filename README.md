@@ -13,3 +13,12 @@
 ### :clapper: Videos:
 * [Teorías](https://www.youtube.com/playlist?list=PL3a_0yafSm3jqtnNdrsTGUcD7zRm21AqP) :film_strip:
 * [Prácticas]() :film_strip:
+
+
+ ### 💻 Practicas:
+
+### Primera parte Sistemas Operativos Aplicados SOA (Prácticas 1, 2 y 3)
+
+* [Practica 1]() :page_facing_up:
+
+### Segunda parte Práctica Normal PN (Prácticas 4,5 Y 6)
