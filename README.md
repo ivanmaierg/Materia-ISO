@@ -1,4 +1,4 @@
-## Introduccion al Sistema Operativo
+## Introduccion a Sistemas Operativos
 
 ### :books: Teorias:
 * [Tema 1 - Introducción]() :open_book:
